@@ -3,7 +3,7 @@ AI Inventory Management Agent with Adaptive Demand Forecasting
 Interactive Streamlit Decision-Support Dashboard.
 
 College Project:
-- Students: Sushil Kumar, Vivek Tripathi, Yashraj Singh
+- Student:  Vivek Tripathi
 - Mentor: Ms. Pragya Agarwal
 - Institution: GNIOT, Greater Noida
 - Domain: Computer Science and Engineering (AI & ML)
@@ -778,7 +778,7 @@ with st.expander("🎓 Project Academic Information (GNIOT)", expanded=False):
     **Institution:** Greater Noida Institute of Technology (GNIOT), Greater Noida  
     **Department:** Computer Science and Engineering — Artificial Intelligence and Machine Learning  
     **Faculty Mentor:** Ms. Pragya Agarwal  
-    **Developed by:** Sushil Kumar | Vivek Tripathi | Yashraj Singh  
+    **Developed by:**  Vivek Tripathi  
     """)
 
 if validation_warnings:

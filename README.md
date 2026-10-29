@@ -6,9 +6,7 @@
 - **Institution:** Greater Noida Institute of Technology (GNIOT), Greater Noida
 - **Faculty Mentor:** Ms. Pragya Agarwal
 - **Project Developers:**
-  - **Sushil Kumar**
-  - **Vivek Tripathi**
-  - **Yashraj Singh**
+  - **vivek Tripathi**
 
 ---
 
